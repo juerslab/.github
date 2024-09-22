@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Juers Lab 👋
+We use physics to study biological systems.
 <!--
 
 **Here are some ideas to get you started:**
