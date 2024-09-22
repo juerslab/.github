@@ -1,5 +1,6 @@
-## Juers Lab 👋
-We use physics to study biological systems.
+## Juers Lab 
+We use physics to study biological systems. For more information please see our website here:
+https://juerslab.github.io
 <!--
 
 **Here are some ideas to get you started:**
